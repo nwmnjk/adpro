@@ -1,1 +1,1 @@
-![glory](content/glory.png)
+![mclovin](content/badge.png)
