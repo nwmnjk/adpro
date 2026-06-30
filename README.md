@@ -1,1 +1,1 @@
-![required](content/mclovin.png)
+![required](content/badge.png)
