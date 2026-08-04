@@ -1,1 +1,1 @@
-![required](content/badge.png)
+![required](content/glory.png)
